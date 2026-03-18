@@ -10,7 +10,7 @@
 I'm a Master's degree student in Software Engineering from Portugal 🇵🇹<br><br>
 
 - 🎓 Currently working on my thesis: <b>Immersive Analysis for the characterisation of Geological Formations using Point Clouds</b><br>
-- 🧠 Interested in Virtual Reality, 3D graphics, and simulation systems<br>
+- 🧠 Interested in Virtual Reality and 3D modeling <br>
 - 🛠️ Passionate about game development and interactive experiences<br>
 - ⚡ In my free time I play games and hang out with friends
 </p>
@@ -22,7 +22,7 @@ I'm a Master's degree student in Software Engineering from Portugal 🇵🇹<br>
 ###
 
 <p align="left">
-🎮 <b>Surreal 3D Game (Unity)</b><br><br>
+🎮 <b>Order666</b><br><br>
 
 A collaborative project where we developed a surrealistic 3D experience using Unity.  
 A WcDonald's worker takes a pill from a customer and falls asleep in a surreal dream. The main object is to reach the end of the dream without waking up.<br><br>
